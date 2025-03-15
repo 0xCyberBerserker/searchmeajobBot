@@ -101,6 +101,18 @@ python -c "import keyring; keyring.set_password('linkedin', 'email', 'your-email
 python -c "import keyring; keyring.set_password('linkedin', 'password', 'your-password')"
 ```
 
+Comment this line on main function:
+```python
+    check_linkedin_feed()
+   
+```
+
+And uncomment this one on main function as well:
+
+```python
+    #login_linkedin()
+```
+
 ---
 
 ## 🔹 7. **Troubleshooting**
