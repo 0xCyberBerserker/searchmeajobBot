@@ -1,0 +1,9 @@
+.python-version
+venv
+comprimido
+applied_jobs_log.txt
+chromedriver.exe
+__pycache__
+*.pyc
+*.pyo
+load_venv.ps1

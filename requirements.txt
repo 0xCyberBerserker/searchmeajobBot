@@ -1,0 +1,13 @@
+selenium
+requests 
+argparse
+bs4
+markdown
+pdfplumber
+python-docx 
+nltk 
+beautifulsoup4
+loging
+pyautogui
+keyring
+pywin32
