@@ -31,7 +31,7 @@ pyenv --version
 ## 🔹 2. **Clone the Repository** (Optional)
 If you want to clone the project from a GitHub repository:
 ```powershell
-git clone https://github.com/your-username/searchmeajobBot.git
+git clone https://github.com/0xCyberBerserker/searchmeajobBot.git
 cd searchmeajobBot
 ```
 
